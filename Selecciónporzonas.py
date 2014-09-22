@@ -29,8 +29,8 @@ def _Selecciondezonas(Inputfasta, Inseleccion=None):
     Inputfasta : 
                 Debe ser la dirección de un archivo de alineamiento en .fasta, debe ingresarse entre comillas.
     Inseleccion : Lista de tuplas
-        Cada tupla de la lista debe poseer con los # de las columnas que franquean los bloques que quiero seleccionar 
-        Ejemplo Inseleccion=[
+        Cada tupla de la lista debe poseer con los # de las columnas que flanquean los bloques que quiero seleccionar 
+        Ejemplo Inseleccion=[]
     
     Returns
     -------
